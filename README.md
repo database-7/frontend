@@ -58,6 +58,11 @@ app/src/main/java/com/example/readmate_frontend/
 - Android SDK 26+
 - `google-services.json` (Firebase 콘솔에서 발급)
 
+### 개발 환경 (테스트 기준)
+
+- 에뮬레이터: Medium Phone API 36.1
+- Android 16.0 ("Baklava") | arm64
+
 ### 실행
 
 1. `app/` 폴더에 `google-services.json` 배치
