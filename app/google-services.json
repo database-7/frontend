@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972447011625",
+    "project_id": "readmate-7b2c1",
+    "storage_bucket": "readmate-7b2c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972447011625:android:54a4f3a699ee0bd1ce5d38",
+        "android_client_info": {
+          "package_name": "com.example.readmate_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7VPkOSFzKAXxe4jR-kZa1QgHXU4pVmdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
